@@ -1,0 +1,49 @@
+@font-face {
+  font-family: 'futura';
+  src: url('../assets/font/futura.ttf');
+}
+
+@font-face {
+  font-family: 'garamond';
+  src: url('../assets/font/garamond.ttf');
+}
+
+@font-face {
+  font-family: 'inkgraphy';
+  src: url('../assets/font/inkgraphy.ttf');
+}
+
+body {
+  font-family: 'futura';
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'garamond';
+}
+
+.futura-font {
+  font-family: 'futura';
+}
+
+.inkgraphy-font {
+  font-family: 'inkgraphy';
+}
+
+.typewrite {
+  text-decoration: none;
+}
+
+.justify {
+  text-align: justify;
+}
+
+.bg {
+  background-image: url('../assets/img/orphanage.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}

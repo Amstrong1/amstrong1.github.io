@@ -33,3 +33,10 @@ h6 {
 .inkgraphy-font {
   font-family: 'inkgraphy';
 }
+
+.icons {
+  height: 50px;
+  display: inline-block;
+  margin: 10px;
+}
+
